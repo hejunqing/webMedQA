@@ -4,7 +4,7 @@ A real-world Chinese medical question answering dataset collected from online he
 # Dataset description
 
 A sample:
-![sample](https://github.com/hejunqing/webMedQA/master/medQA.PNG)
+![sample](https://github.com/hejunqing/webMedQA/blob/master/medQA.PNG)
 
 | | Train| Dev| Test|
 |---|----|----|-----|
