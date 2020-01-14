@@ -3,9 +3,6 @@ A real-world Chinese medical question answering dataset collected from online he
 
 # Dataset description
 
-A sample:
-![sample](https://github.com/hejunqing/webMedQA/blob/master/medQA.PNG)
-
 | | Train| Dev| Test|
 |---|----|----|-----|
 |Questions|50610|6337|6337|
@@ -14,6 +11,11 @@ A sample:
 |Avg length|146.88|147.74|148.50|
 
 Each question has 1 positive and 4 negative answers.
+A sample:
+
+![sample](https://github.com/hejunqing/webMedQA/blob/master/medQA.PNG)
+
+
 Please read our paper for more detail.
 
 # Please Cite
